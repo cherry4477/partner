@@ -154,7 +154,7 @@
       <td>2级</td>
       <td></td>
       <td>已发邮件</td>
-      <td></td>
+      已同意开放环境API<td></td>
       <td></td>
       <td>5月18日</td>
    </tr>
