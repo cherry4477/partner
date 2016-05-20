@@ -273,6 +273,19 @@
       <td>发布数据工具</td>
       <td>3级</td>
       <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>久其软件</td>
+      <td>"提供广告数据</td>
+     <td></td>
+      <td></td>
       <td>4月7日</td>
       <td>已发邮件</td>
       <td></td>
@@ -280,10 +293,6 @@
       <td></td>
       <td>已提供logo</td>
       <td>5月16日</td>
-   </tr>
-   <tr>
-      <td>久其软件</td>
-      <td>"提供广告数据</td>
    </tr>
    <tr>
       <td>发布数据需求"</td>
@@ -300,6 +309,14 @@
    <tr>
       <td>国云数据</td>
       <td>"发布数据工具</td>
+          <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
    </tr>
    <tr>
       <td>发布数据需求"</td>
