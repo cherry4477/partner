@@ -17,7 +17,7 @@
       <td>数据提供</td>
       <td>提供时间</td>
       <td>官网互联</td>
-      <td>最新接触时间</td>
+      <td>最新接触事件</td>
    </tr>
    <tr>
       <td>中科宇图</td>
@@ -30,7 +30,7 @@
       <td>数据已上架</td>
       <td>4月29日</td>
       <td>已提供logo和网址</td>
-      <td>5月13日</td>
+      <td>5-26，数博会商交流推动数据合作</td>
    </tr>
    <tr>
       <td>龙信数据</td>
@@ -43,7 +43,7 @@
       <td></td>
       <td></td>
       <td>已提供logo和网址</td>
-      <td>4月22日</td>
+      <td>5-28，数博会上交流推动与龙信思源的合作</td>
    </tr>
    <tr>
       <td>美林数据</td>
@@ -56,10 +56,13 @@
       <td>已提供需求</td>
       <td>4月12日</td>
       <td>已提供logo和网址</td>
-      <td>4月14日</td>
+      <td>5-27，撮合与网智天元的影视数据交易</td>
    </tr>
    <tr>
-      <td>云相科技（新浪微博）</td>
+      <td>"云相科技</td>
+   </tr>
+   <tr>
+      <td>（新浪微博）"</td>
       <td>提供社交数据</td>
       <td>1级</td>
       <td>合作积极，协议与互联已完成</td>
@@ -69,7 +72,7 @@
       <td></td>
       <td></td>
       <td>已提供logo和网址</td>
-      <td>5月16日</td>
+      <td></td>
    </tr>
    <tr>
       <td>屏联科技</td>
@@ -82,7 +85,7 @@
       <td>数据已提供，暂停上架</td>
       <td>4月20日</td>
       <td>已提供logo和网址</td>
-      <td>5月16日</td>
+      <td></td>
    </tr>
    <tr>
       <td>用友</td>
@@ -95,7 +98,7 @@
       <td></td>
       <td></td>
       <td>已提供logo和网址</td>
-      <td>5月16日</td>
+      <td></td>
    </tr>
    <tr>
       <td>成都智勤数码</td>
@@ -108,7 +111,7 @@
       <td>数据整理中</td>
       <td></td>
       <td>已提供logo和网址</td>
-      <td>5月16日</td>
+      <td>5-27，数博会上交流推动数据合作</td>
    </tr>
    <tr>
       <td>东网科技</td>
@@ -121,7 +124,7 @@
       <td>数据已上架</td>
       <td>5月13日</td>
       <td>已提供logo和网址</td>
-      <td>5月12日</td>
+      <td></td>
    </tr>
    <tr>
       <td>武汉长江大数据交易所</td>
@@ -134,7 +137,7 @@
       <td></td>
       <td></td>
       <td>已提供logo和网址</td>
-      <td>5月11日</td>
+      <td></td>
    </tr>
    <tr>
       <td>哈尔滨数据交易中心</td>
@@ -147,7 +150,7 @@
       <td></td>
       <td></td>
       <td>已提供logo和网址</td>
-      <td>5月13日</td>
+      <td>6-1，为美林的影视数据需求挖掘数据源</td>
    </tr>
    <tr>
       <td>广州数据交易中心</td>
@@ -160,7 +163,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>5月17日</td>
+      <td></td>
    </tr>
    <tr>
       <td>百分点</td>
@@ -173,7 +176,7 @@
       <td></td>
       <td></td>
       <td>已提供logo</td>
-      <td>5月11日</td>
+      <td></td>
    </tr>
    <tr>
       <td>华院数据</td>
@@ -186,7 +189,7 @@
       <td>数据整理中</td>
       <td></td>
       <td>已提供logo和网址</td>
-      <td>5月13日</td>
+      <td>5-27，数博会上交流推动数据合作</td>
    </tr>
    <tr>
       <td>网智天元</td>
@@ -199,7 +202,7 @@
       <td></td>
       <td></td>
       <td>已提供logo</td>
-      <td>5月16日</td>
+      <td>5-27，撮合与美林之间的影视数据交易</td>
    </tr>
    <tr>
       <td>云创</td>
@@ -212,7 +215,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>5月16日</td>
+      <td></td>
    </tr>
    <tr>
       <td>众信佳</td>
@@ -228,6 +231,32 @@
       <td></td>
    </tr>
    <tr>
+      <td>朗新</td>
+      <td>提供数据</td>
+      <td>2级</td>
+      <td>提高数据，且加入联盟副理事单位会员</td>
+      <td>5月16日</td>
+      <td>已签订协议</td>
+      <td>5月31日</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5-31，已完成入会协议</td>
+   </tr>
+   <tr>
+      <td>芝麻科技</td>
+      <td>运营商数据需求</td>
+      <td>2级</td>
+      <td>数据需求迫切，积极合作</td>
+      <td>5月27日</td>
+      <td>协议已邮寄</td>
+      <td></td>
+      <td>已提供数据需求</td>
+      <td>6月1日</td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
       <td>同盾科技</td>
       <td>发布数据需求</td>
       <td>3级</td>
@@ -238,20 +267,20 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>4月28日</td>
+      <td></td>
    </tr>
    <tr>
       <td>集奥聚合</td>
       <td>获取运营商数据</td>
       <td>3级</td>
-      <td></td>
+      <td>重新建立接触，将聚合API入驻到datahub</td>
       <td>4月6日</td>
       <td>已发邮件</td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
-      <td>5月16日</td>
+      <td>5-27，建立接触，推动入会与数据入驻</td>
    </tr>
    <tr>
       <td>海量数据</td>
@@ -277,11 +306,11 @@
       <td></td>
       <td></td>
       <td>已提供logo</td>
-      <td>5月16日</td>
+      <td></td>
    </tr>
    <tr>
       <td>久其软件</td>
-      <td>提供广告数据,发布数据需求</td>
+      <td>发布数据工具，发布数据需求</td>
       <td>3级</td>
       <td></td>
       <td>4月13日</td>
@@ -290,11 +319,14 @@
       <td></td>
       <td></td>
       <td>已提供logo</td>
-      <td>5月16日</td>
+      <td>5-26，数博会上交流推动数据需求</td>
    </tr>
    <tr>
       <td>国云数据</td>
-      <td>发布数据工具,发布数据需求</td>
+      <td>"发布数据工具</td>
+   </tr>
+   <tr>
+      <td>发布数据需求"</td>
       <td>3级</td>
       <td></td>
       <td>4月11日</td>
@@ -303,7 +335,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>5月6日</td>
+      <td></td>
    </tr>
    <tr>
       <td>博晓通</td>
@@ -316,7 +348,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>4月24日</td>
+      <td></td>
    </tr>
    <tr>
       <td>航聚信息</td>
@@ -329,7 +361,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>4月26日</td>
+      <td></td>
    </tr>
    <tr>
       <td>极光推送</td>
@@ -342,11 +374,11 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>4月26日</td>
+      <td></td>
    </tr>
    <tr>
       <td>明略软件</td>
-      <td>发布数据工具,发布数据需求</td>
+      <td>发布数据工具，发布数据需求</td>
       <td>3级</td>
       <td>已进行多次交流，对方有合作意向，但态度较为保守，一直在评估合作价值</td>
       <td>4月2日</td>
@@ -355,7 +387,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>4月14日</td>
+      <td>5-27，数博会上交流推动合作</td>
    </tr>
    <tr>
       <td>银联智惠</td>
@@ -368,7 +400,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>4月13日</td>
+      <td></td>
    </tr>
    <tr>
       <td>华道征信</td>
@@ -381,7 +413,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>4月28日</td>
+      <td></td>
    </tr>
    <tr>
       <td>泰一指尚</td>
@@ -394,7 +426,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>5月6日</td>
+      <td></td>
    </tr>
    <tr>
       <td>海云数据</td>
@@ -407,7 +439,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>5月16日</td>
+      <td></td>
    </tr>
    <tr>
       <td>汉王</td>
@@ -420,7 +452,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>5月9日</td>
+      <td></td>
    </tr>
    <tr>
       <td>奥维云网</td>
@@ -433,7 +465,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>5月9日</td>
+      <td></td>
    </tr>
    <tr>
       <td>费埃哲</td>
@@ -446,7 +478,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>5月3日</td>
+      <td></td>
    </tr>
    <tr>
       <td>搜狐</td>
@@ -459,20 +491,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>5月13日</td>
-   </tr>
-   <tr>
-      <td>朗新</td>
-      <td>提供数据</td>
-      <td>3级</td>
-      <td>提高数据，且加入联盟副理事单位会员</td>
-      <td>5月16日</td>
-      <td>已接触</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5月16日</td>
    </tr>
    <tr>
       <td>百度地图</td>
@@ -485,7 +504,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>5月16日</td>
+      <td></td>
    </tr>
    <tr>
       <td>永洪商智</td>
@@ -511,7 +530,514 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>5月17日</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>中海通</td>
+      <td>提供海关、贸易数据</td>
+      <td>3级</td>
+      <td>有合作意愿</td>
+      <td>5月27日</td>
+      <td>已发邮件</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>虎鱼网络</td>
+      <td>发布数据工具，发布数据需求</td>
+      <td>3级</td>
+      <td>积极合作，希望获得数据交易的渠道</td>
+      <td>6月1日</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>数字冰雹</td>
+      <td>发布数据工具，发布数据需求</td>
+      <td>3级</td>
+      <td>有合作意愿</td>
+      <td>5月27日</td>
+      <td>已发邮件</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>汇通天下</td>
+      <td>提供物流数据</td>
+      <td>3级</td>
+      <td>有合作意愿</td>
+      <td>5月23日</td>
+      <td>已发邮件</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>智慧图大数据</td>
+      <td></td>
+      <td>3级</td>
+      <td>有合作意愿</td>
+      <td>6月1日</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>酷车保365</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>成都数据城堡科技有限公司</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>深圳大数据计算机信息股份有限公司</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>数之联</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>中科点击（北京）科技有限公司</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>北京锐安科技有限公司</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>BBD</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>法本信息技术股份有限公司</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>卓越集团</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>中科天玑数据科技股份有限公司</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>山东鲁能软件技术有限公司</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>法海风控</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>人人信用管理有限公司</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>中国通关网</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>北京金堤科技有限公司</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>贵阳银行</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>众调科技</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>北京热云科技有限公司</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>普林科技</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>北京英富森软件股份有限公司</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>北京数介科技有限公司</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>广州海之光通信技术股份有限公司</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>贵州万华科技有限公司</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>北京信用协会</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>北京快友世纪科技有限公司</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>易科学</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>上海数据交易中心</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>深圳微众税银信息服务有限公司</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>科大讯飞</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>去哪网</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>北京慧数科技有限公司</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>企木木</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>享宇金服</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>国能科技</td>
+      <td></td>
+      <td>4级</td>
+      <td>数博会加入，尚未接触</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
    </tr>
    <tr>
       <td>华通人</td>
@@ -524,7 +1050,7 @@
       <td></td>
       <td></td>
       <td>已提供logo</td>
-      <td>5月16日</td>
+      <td></td>
    </tr>
    <tr>
       <td>国双科技</td>
@@ -537,7 +1063,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>4月13日</td>
+      <td></td>
    </tr>
    <tr>
       <td>新华通讯社中国经济信息社</td>
@@ -550,7 +1076,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>4月14日</td>
+      <td></td>
    </tr>
    <tr>
       <td>中国汽车技术研究中心</td>
@@ -563,7 +1089,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>4月14日</td>
+      <td></td>
    </tr>
    <tr>
       <td>飞鹤国际</td>
@@ -576,7 +1102,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>4月14日</td>
+      <td></td>
    </tr>
    <tr>
       <td> 通付盾</td>
@@ -589,7 +1115,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>4月15日</td>
+      <td></td>
    </tr>
    <tr>
       <td>容联易通</td>
@@ -602,7 +1128,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>4月15日</td>
+      <td></td>
    </tr>
    <tr>
       <td>立得空间</td>
@@ -615,7 +1141,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>4月19日</td>
+      <td></td>
    </tr>
    <tr>
       <td>玖道科技</td>
@@ -628,7 +1154,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>4月15日</td>
+      <td></td>
    </tr>
    <tr>
       <td>芃柏数据</td>
